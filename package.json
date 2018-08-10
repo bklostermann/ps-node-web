@@ -1,0 +1,27 @@
+{
+  "name": "ps-node-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bklostermann/ps-node-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bklostermann/ps-node-web/issues"
+  },
+  "homepage": "https://github.com/bklostermann/ps-node-web#readme",
+  "dependencies": {
+    "bootstrap": "4.1.3",
+    "chalk": "2.4.1",
+    "debug": "3.1.0",
+    "express": "4.16.3",
+    "jquery": "3.3.1",
+    "morgan": "1.9.0"
+  }
+}
